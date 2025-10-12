@@ -62,7 +62,7 @@ A web application that allows you to upload podcasts, automatically transcribe t
    ```
 
 6. **Access the app**:
-   - Open your browser: `http://localhost:8000`
+   - Open your browser: "http://localhost:8000"
    - Or use custom domain: `http://podcastbot.local:8000` (see below)
 
 ## 🌐 Custom Domain Setup (Optional)
@@ -362,4 +362,5 @@ For issues or questions:
 **Author:** Shalabh Dongaonkar
 
 Enjoy your podcast chatbot! 🎙️✨
+
 
