@@ -5,7 +5,6 @@
 A web application that allows you to upload podcasts, automatically transcribe them, and chat with an AI about the content using semantic search.
 
 **Created by:** Shalabh Dongaonkar
-**Built with:** Claude Code by Anthropic
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.9+-green)
@@ -362,5 +361,6 @@ For issues or questions:
 **Author:** Shalabh Dongaonkar
 
 Enjoy your podcast chatbot! 🎙️✨
+
 
 
