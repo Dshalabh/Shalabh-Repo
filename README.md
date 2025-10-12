@@ -83,8 +83,10 @@ A web application that allows you to upload podcasts, automatically transcribe t
    uvicorn main:app --reload --host 0.0.0.0 --port 8000
    ```
 
-2. **Open your browser**:
-   Navigate to `http://localhost:8000`
+2. **Open your browser**: **Access:**
+- Web UI: http://localhost:8000
+- API Docs: http://localhost:8000/docs
+- Redoc: http://localhost:8000/redoc
 
 3. **Upload a podcast**:
    - Enter a title
@@ -194,3 +196,4 @@ ChatMessage
 ## License
 
 MIT License - feel free to use and modify as needed.
+
