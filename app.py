@@ -12,7 +12,9 @@ from database import init_db, get_db, Podcast, Transcription, ChatSession, ChatM
 from transcription_service import transcribe_audio
 from chatbot_service import ChatbotService
 from vector_store import VectorStore
-
+from dotenv import load_dotenv
+load_dotenv()
+import os
 app = FastAPI(title="Podcast Chatbot API")
 
 # Initialize services
